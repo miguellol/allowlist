@@ -1,0 +1,6 @@
+@@||sb.scorecardresearch.com^
+@@||live.vtm.be^
+@@||stream.vtm.be^
+@@||vod.medialaan.io^
+@@||ads.vtm.be^$document
+
