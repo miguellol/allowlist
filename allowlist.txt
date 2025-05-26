@@ -15,5 +15,10 @@
 @@||player.play4.be^
 @@||play4.be^
 @@||tracking.vtm.be^
+@@||leo.goplay.be^
+@@||region1.analytics.google.com^
+@@||boot.pbstck.com^
+@@||js.appboycdn.com^
+
 
 
